@@ -11,7 +11,7 @@ Calculate well-survey cells based on species occurrence records using **knowBR**
   - Figure of the distribution of completeness values vs other estimators
   - Map of Completeness
   
-## b) **Environmental Space** analysis
+### b) **Environmental Space** analysis
 Calculate study area environmental space vs well-survey sampled space
 ###### For the correct develop of this code, user needs to: 
 * Provide a polygon shapefile of the study area
