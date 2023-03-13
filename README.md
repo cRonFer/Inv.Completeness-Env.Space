@@ -30,6 +30,4 @@ Calculate study area environmental space vs well-survey sampled space
 > The code was created and used in *Ronquillo, C., Alves-Martins, F., Mazimpaka, V., Sobral-Souza, T., Vilela-Silva, B., G. Medina, N. & Hortal, J. (2020). Assessing spatial and temporal biases and gaps in the publicly available distributional information of Iberian mosses. Biodiversity Data Journal 8: e53474* [see here](https://doi.org/10.3897/BDJ.8.e53474)
 
 > It will also be part of the following manuscripts:
-Vaz et al. (in prep) Fireflies inventory completeness assessment in the Atlantic Forest of Brazil
-
-William et al. (in prep)
+Vaz et al. (in prep) Fireflies inventory completeness assessment in the Atlantic Forest of Brazil and William et al. (in prep) Termites inventory completeness global assessment
